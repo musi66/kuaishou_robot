@@ -1,3 +1,15 @@
+快手逆向, 快手hook,快手xposed, 发消息 ,群功能, 各种脚本
+
+# 功能
+1. 发文字
+2. 发图片
+3. 发卡片
+4. id进群
+5. 获取讨论组二维码
+6. 二维码进群
+7. 群管理员相关设置
+等等
+
 # 效果
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210429103510630.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JpbmJpbjU5NDczODk3Nw==,size_16,color_FFFFFF,t_70)
 
